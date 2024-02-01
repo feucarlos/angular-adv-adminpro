@@ -42,7 +42,4 @@ testem.log
 Thumbs.db
 
 # Assets provistos por el curso con licencia
-/src/assets/images
-/src/assets/plugins
-/src/assets/js
-/src/assets/css
+/src/assets/
